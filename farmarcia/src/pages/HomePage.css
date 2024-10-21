@@ -1,0 +1,18 @@
+div.product-banner {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    align-self: auto;
+  }
+  
+  div.product-banner a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.product-banner a:hover {
+    background-color: #777;
+  }
